@@ -16,7 +16,8 @@ const SettingsManager = {
     allLocales: {
         'en-US': 'English',
         'de-DE': 'Deutsch',
-        'fr-FR': 'Français'
+        'fr-FR': 'Français',
+        'zh-CN': '简体中文',
     },
 
     allThemes: {
